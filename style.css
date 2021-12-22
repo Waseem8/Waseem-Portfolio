@@ -360,6 +360,8 @@ cursor: pointer;
   background: #05386b;
 }
 .teams .carousel .card .box {
+  text-decoration: none;
+color: #f2f2f2;
   display: flex;
   flex-direction: column;
   align-items: center;
